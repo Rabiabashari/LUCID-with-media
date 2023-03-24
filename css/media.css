@@ -1,0 +1,118 @@
+@media(max-width:575px){
+       .phone{
+         display: none;
+       }
+      .banner_content{
+         text-align: center;
+      }
+      .banner_content h1{
+        font-size: 37px;
+      }
+      .banner_content p{
+        font-size: 15px;
+      }
+     .navbar-toggler {
+       padding: 0;
+       font-size: 22px;
+       line-height: 1;
+       color: #fff;
+     }
+    .navbar-toggler:focus{
+       box-shadow: none;
+    }
+    .navbar-nav{
+      text-align: center;
+    }
+    .nav-link{
+      display: inline-block;
+    }
+    .download{
+       padding: 7px 21px;
+       font-size: 10px;
+    }
+    .view{
+      padding: 7px 21px;
+      font-size: 10px;
+    }
+    .feature p{
+       font-size: 15px;  
+      }
+    .feature h4{
+       padding: 20px 0px 10px;
+      }
+      .about_img{
+        margin: auto;
+      }
+      .about_us h5{
+        text-align: center;
+        font-size: 14px;
+      }
+      .about_us h1{
+        text-align: center;
+        font-size: 32px;
+        margin: 10px 0px;
+      }
+      .about_us p{
+        text-align: center;
+        font-size: 14px;
+      }
+      .about_us .dash{
+        justify-content: center;
+      }
+      .about_us .about_icon{
+        justify-content: center;
+      }
+      .about_us .about_icon h6{
+        font-size: 14px;
+      }
+      .heading h2{
+        font-size: 36px;
+      }
+      .heading p{
+        font-size: 16px;
+      }
+      .item_flex{
+        justify-content: center;
+      }
+      .item p{
+        font-size: 17px;
+      }
+      .item_flex .name h5{
+        font-size: 14px;
+      }
+      .item_flex .name h6{
+        font-size: 14px;
+      }
+      .download_theme h1{
+        font-size: 25px;
+        text-align: center;
+      }
+      .what_you_see_btn{
+        text-align: center !important;
+      }
+      .border{
+        width: 90%;
+        margin: auto;
+      }
+      .border h2{
+        font-size: 25px;
+        padding: 14px 0px;
+      }
+      .tag_span{
+        padding: 14px 0px 20px;
+      }
+      .border p{
+        margin: 20px 0px;
+        padding: 23px;
+     }
+      .ordernow{
+       padding: 9px 25px;
+       font-size: 10px;
+     }
+      .price h6{
+        font-size: 25px;
+     }
+     .price h1{
+       font-size: 45px;
+     }
+}
